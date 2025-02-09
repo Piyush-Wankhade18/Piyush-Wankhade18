@@ -5,7 +5,6 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Gmail Badge](https://img.shields.io/badge/-piyush.wankhade19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyush.wankhade19@gmail.com)](mailto:piyush.wankhade19@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
 
 ## :computer: Technologies I Worked on
@@ -54,7 +53,7 @@
  ```
  
 ## Current Works
- * Breaking into Cybersec !!
+ * Breaking into Data Engineering !!
  * I'm currently working on Database migration project(ETL Testing)* and working up on polishing my skills 🌱 in **cloud platforms and Python automation**.
  
 ## Other Stuff
