@@ -69,6 +69,6 @@
  * I'm currently working on Database migration project(ETL Testing)* and working up on polishing my skills 🌱 in **cloud platforms and Python automation**.
  
 ## Other Stuff
-  - :octocat: [My Resume]([https://docs.google.com/document/d/1KC9g4MXzGf21CGwx-2-opqI5cCqmBRN1/edit?usp=sharing&ouid=107112132674482009279&rtpof=true&sd=true](https://drive.google.com/file/d/1hPSK1dC9VaYS6pV_ZKEPVbwEKrJyle5h/view?usp=sharing))
+  - :octocat: [My Resume](https://drive.google.com/file/d/1hPSK1dC9VaYS6pV_ZKEPVbwEKrJyle5h/view?usp=sharing)
 
 
