@@ -8,17 +8,16 @@
 
 
 ## :computer: Technologies I Worked on
-	ETL  Tool used : SSIS,Informatica, ADF
-	Databases & tools : SSMS(mssql), Azure Data Studio, Hive
-	Defect Management tool : JIRA , HP-ALM
-	Agile Project Management Tool : JIRA 
-	BigData Tool used– Hadoop, HDFS, Hive, Hue Browser
-	Process : Agile 
-	Configuration Tool : GIT 
-	BI Tools used : Power BI
-	Experience in ETL Backend Automation using Python script 
-	Strong work experience area - ETL Testing | Database testing | Big Data Testing | Manual Testing | BI Report Testing | Unix | API Testing |Cloud Testing
-
+•	Databases & tools : SSMS(mssql), Azure Data Studio, Hive,Azure Synapse, Sql Developer,Vscode with sql extension.
+•	Defect Management tool : JIRA , HP-ALM
+•	Project Management Tool : JIRA 
+•	ETL Tool used : SSIS, ADF,Informatica,Synapse,Databricks.
+•	Big Data Tool used– Hadoop, HDFS, Hive, Hue Browser,Pyspark
+•	Process : Agile 
+•	Configuration Tool : GIT 
+•	BI Tools used : Power BI
+•	Experience in ETL Back-end Automation using Python script 
+•	Strong work experience area - ETL Testing | Database testing | Big Data Testing | Manual Testing | BI Report Testing | Unix | API Testing |Cloud Testing| DWH Testing| Data migration
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -71,6 +70,6 @@
  * I'm currently working on Database migration project(ETL Testing)* and working up on polishing my skills 🌱 in **cloud platforms and Python automation**.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1hPSK1dC9VaYS6pV_ZKEPVbwEKrJyle5h/view?usp=sharing)
+  - :octocat: [My Resume](h[ttps://drive.google.com/file/d/1hPSK1dC9VaYS6pV_ZKEPVbwEKrJyle5h/view?usp=sharing](https://drive.google.com/file/d/1sVQJq0hRp5rHSFfb0BEdU8Yewe_Y7Baz/view?usp=drive_link))
 
 
