@@ -47,9 +47,8 @@
 		current_work = 'Senior ETL QA Engineer'
 		Experience = [
 		Senior ETL QA Engineer with 3.6+ years of experience in Software Testing, specializing in ETL pipelines, Data Warehousing (DWH), Azure Data Factory, Databricks (PySpark), and Data 			Migration validation.
-		I work extensively on validating large-scale data pipelines, ensuring data accuracy, completeness, and integrity across cloud-based systems. My core expertise lies in ETL testing, 	           SQL-based data validation, and backend automation using Python and PySpark.
-        ETL Testing | SQL | Azure Data Factory | Databricks | PySpark |
-        Data Warehousing | Data Migration | Big Data Testing | API Testing |
+	I work extensively on validating large-scale data pipelines, ensuring data accuracy, completeness, and integrity across cloud-based systems. My core expertise lies in ETL testing, 	           SQL-based data validation, and backend automation using Python and PySpark.
+ 	ETL Testing | SQL | Azure Data Factory | Databricks | PySpark |Data Warehousing | Data Migration | Big Data Testing | API Testing |
         Python | Power BI | Unix | JIRA
         'Being up all Night chasing that ONE BUG...'
 			]
